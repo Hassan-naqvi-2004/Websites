@@ -1,0 +1,115 @@
+.ionictechnologies{
+    background-color: rgb(159, 166, 170);
+    height: 90px;
+    width: 830px;
+    border-radius: 3px;
+}
+.it1{
+    margin-left: 250px;
+}
+.angular{
+    background-color: rgb(231, 55, 55);
+    height: 92px;
+    width: 200px;
+    margin-top: 70px;
+    border-radius: 3px;
+}
+.a1{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.ionicnative{
+    background-color: rgb(166, 241, 151);
+    height: 92px;
+    width: 200px;
+    margin-top: -117px;
+    margin-left: 210px;
+    border-radius: 3px;
+}
+.in1{
+    margin-left: 15px;
+}
+.typescript{
+    background-color: rgb(151, 157, 241);
+    height: 92px;
+    width: 200px;
+    margin-top: -118px;
+    margin-left: 210px;
+    border-radius: 3px;
+}
+.ts1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.sass{
+    background-color: rgb(158, 128, 197);
+    height: 92px;
+    width: 200px;
+    margin-top: -118px;
+    margin-left: 210px;
+    border-radius: 3px;
+}
+.s1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.html5{
+    background-color: rgb(235, 193, 58);
+    height: 92px;
+    width: 200px;
+    margin-left: -630px;
+    margin-top: 25px;
+    border-radius: 3px;
+}
+.h1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.iconiccli{
+    background-color: rgb(182, 74, 182);
+    height: 92px;
+    width: 200px;
+    margin-top: -117px;
+    margin-left: 210px;
+    border-radius: 3px;
+}
+.ic1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.stencil{
+    background-color: rgb(182, 74, 182);
+    height: 92px;
+    width: 200px;
+    margin-top: -118px;
+    margin-left: 210px;
+    border-radius: 3px;
+}
+.s1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.webcomponent{
+    background-color: rgb(182, 74, 182);
+    height: 92px;
+    width: 200px;
+    margin-top: -114px;
+    margin-left: 210px;
+    font-size: smaller;
+    border-radius: 3px;
+}
+.w1{
+    margin-left: 15px;
+    margin-top: -20px;
+}
+.footer{
+    background-color: rgb(159, 166, 170);
+    height: 90px;
+    width: 830px;
+    margin-left: -630px;
+    margin-top:-13px;
+    border-radius: 3px;
+}
+.f1{
+    margin-left: 350px;
+}

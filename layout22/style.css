@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 600px;
+    height: 800px;
+    background-color: black;
+    position: relative;
+}
+
+.container-2{
+    width: 590px;
+    height: 770px;
+    background-color: aliceblue;
+    margin-left: 5px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+.header{
+    width: 590px;
+    height: 230px;
+    position: absolute;
+}
+
+.back-img{
+    position: absolute;
+    width: 590px;
+    height: 130px;
+    background-image: url(header.webp);
+}
+
+.heading{
+    text-transform: uppercase;
+    margin: 40px;
+    position: absolute;
+}
+
+.heading-para{
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 60px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.ul-1{
+    position: absolute;
+    list-style: none;
+    font-size: 12px;
+    margin-left: 420px;
+    margin-top: 40px;
+}
+
+.li-1{
+    margin-top: 10px;
+}
+
+.hero{
+    width: 590px;
+    height: 100px;
+    background-color: rgb(73, 250, 191);
+    margin-top: 130px;
+}
+
+.circle1{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.circle-back{
+    width: 27px;
+    height: 27px;
+    background-color: rgb(73, 250, 191);
+    position: absolute;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+.line-1{
+    width: 1px;
+    height: 45px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-left: 14px;
+    margin-top: 30px;
+}
+
+.icon{
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    margin: 4px;
+}
+
+.para1{
+    position: absolute;
+    margin-left: 35px;
+    color: aliceblue;
+    font-size: 10px;
+    margin-top: 10px;
+    width: 100px;
+}
+
+.circle2{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 350px;
+}
+
+.line-2{
+    width: 1px;
+    height: 20px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-left: 414px;
+    margin-top: 40px;
+}
+
+.circle3{
+    width: 30px;
+    height: 30px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.hero-img-back{
+    width: 120px;
+    height: 120px;
+    background-color: aliceblue;
+    position: absolute;
+    border-radius: 50%;
+    margin-left: 225px;
+    margin-top: 90px;
+}
+
+.hero-img{
+    width: 109px;
+    height: 109px;
+    position: absolute;
+    border-radius: 50%;
+    margin: 5px;
+}
+
+.main{
+    width: 350px;
+    height: 430px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 230px;
+}
+
+.profile{
+    width: 350px;
+    height: 150px;
+    position: absolute;
+}
+
+.main-heading{
+    text-transform: uppercase;
+    margin-left: 5px;
+}
+
+.para{
+    font-size: 11px;
+}
+
+.expereince{
+    width: 350px;
+    height: 280px;
+    position: absolute;
+    margin-top: 150px;
+}
+
+.side{
+    width: 180px;
+    height: 430px;
+    position: absolute;
+    margin-left: 410px;
+    margin-top: 230px;
+}
+
+.skill{
+    width: 180px;
+    height: 170px;
+    position: absolute;
+}
+
+.education{
+    width: 180px;
+    height: 170px;
+    position: absolute;
+    margin-top: 170px;
+}
+
+.languege{
+    width: 180px;
+    height: 80px;
+    position: absolute;
+    margin-top: 350px;
+}
+
+.footer{
+    width: 590px;
+    height: 100px;
+    position: absolute;
+    background-image: url(header.webp);
+    margin-top: 660px;
+}

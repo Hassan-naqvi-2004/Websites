@@ -1,0 +1,30 @@
+*{
+    padding:0px;
+    margin:0px;
+    width: 800px;
+    height: 400px;
+    text-align: center;
+    border: 1px solid;
+}
+.container{
+    display: flex;
+    border: 1px solid;
+    justify-content: space-between;
+}
+.flexitem item1{
+   flex-direction:row;
+   justify-content: center;
+   align-self: center;
+   flex-shrink: 0px;
+}
+.flexitem item2{
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+    flex-grow:1;
+ }
+ .flexitem item3{
+    flex-direction: row;
+    justify-content: center;
+    align-self: center;
+ }

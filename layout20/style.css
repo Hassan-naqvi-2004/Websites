@@ -1,0 +1,130 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bg{
+    height: 400px;
+    width: 750px;
+    position: relative;
+    background-color:  rgb(10, 124, 6);
+}
+.sector1{
+    height: 36px;
+    width: 33px; 
+    background-color: white;
+    margin-left: 30px;
+    position: absolute;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+.sector2{
+    height: 150px;
+    width: 33px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 30px;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.bars{
+    color: black;
+    font-size: 20px;
+    margin-left: 8px;
+    margin-top: 6px;
+}
+
+.pic{
+    height: 350px;
+    width: 240px;
+    position: absolute;
+    background-color: rgb(213, 232, 240);
+    margin-left: 67px;
+    margin-top: 25px;
+}
+
+.shah{
+    clip-path: polygon(100% 0, 100% 53%, 53% 71%, 0 53%, 0 0);
+    height: 250px;
+    width: 240px;
+    background-color: bisque; 
+}
+.pic2{
+    margin-left: 45px;
+    margin-top: -30px;
+}
+.div{
+    height: 336px;
+    width: 415px;
+    margin-left: 307px;
+    margin-top: 30px;
+    position: absolute;
+    background-color: rgb(213, 232, 240);
+    
+}
+.para1{
+    margin-top: 36px;
+    margin-left: 8px;
+    position: absolute;
+}
+.para2{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 5px;
+}
+.para3{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 5px;
+}
+
+.bar1{
+    height: 15px;
+    width: 50px;
+    position: absolute;
+    background-color: rgb(133, 233, 133);
+    margin-top: 90px;
+    margin-left: 180px;
+}
+.bar2{
+    height: 15px;
+    width: 80px;
+    position: absolute;
+    background-color: rgb(133, 233, 133);
+    margin-top: 115px;
+    margin-left: 180px;    
+}
+.bar3{
+    height: 15px;
+    width: 70px;
+    position: absolute;
+    background-color: rgb(133, 233, 133);
+    margin-top: 140px;
+    margin-left: 180px;
+}
+.bar4{
+    height: 15px;
+    width: 60px;
+    position: absolute;
+    background-color: rgb(133, 233, 133);
+    margin-top: 165px;
+    margin-left: 180px;
+}
+.circle1{
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-top: 250px;
+    margin-left: 60px;
+    background-color: rgb(133, 233, 133);
+}
+.circle2{
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    margin-top: 250px;
+    margin-left: 300px;
+    background-color: rgb(133, 233, 133);
+}

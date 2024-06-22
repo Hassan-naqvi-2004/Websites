@@ -1,0 +1,252 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 650px;
+    height: 970px;
+    position: absolute;
+    background-color: rgb(63, 63, 63);
+}
+
+.container-2{
+    position: absolute;
+    width: 630px;
+    height: 955px;
+    background-color: aliceblue;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.header{
+    width: 630px;
+    height: 200px;
+}
+
+.icon1{
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.icon-div{
+    position: absolute;
+    width: 40px;
+    height: 12px;
+    background-color: rgb(63, 63, 63);
+    margin-top: 42px;
+    margin-left: 40px;
+}
+
+.heading-para{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 85px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.heading-under{
+    position: absolute;
+    font-size: 10px;
+    margin-top: 60px;
+    margin-left: 85px;
+}
+
+.ul-1{
+    position: absolute;
+    list-style: none;
+    display: inline-flex;
+    margin-top: 40px;
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+ul li{
+    margin-left: 5px;
+}
+
+.header-para{
+    font-size: 10px;
+    margin-left: 110px;
+    margin-top: 70px;
+}
+
+.highlight{
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+}
+
+.section-1{
+    width: 630px;
+    height: 250px;
+    position: absolute;
+}
+
+.progress-bar1{
+    width: 400px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 40px;
+    font-size: 12px;
+}
+
+.bar-span1{
+    margin-left: 250px;
+}
+
+.progress-bar2{
+    width: 300px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span2{
+    margin-left: 225px;
+}
+
+.progress-bar3{
+    width: 450px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span3{
+    margin-left: 380px;
+}
+
+.progress-bar4{
+    width: 450px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span4{
+    margin-left: 392px;
+}
+
+.progress-bar5{
+    width: 450px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span5{
+    margin-left: 382px;
+}
+
+.progress-bar6{
+    width: 400px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span6{
+    margin-left: 325px;
+}
+
+.progress-bar7{
+    width: 400px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span7{
+    margin-left: 340px;
+}
+
+.progress-bar8{
+    width: 350px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span8{
+    margin-left: 270px;
+}
+
+.progress-bar9{
+    width: 200px;
+    height: 15px;
+    background-color: rgb(63, 63, 63);
+    color: aliceblue;
+    margin-left: 85px;
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.bar-span9{
+    margin-left: 130px;
+}
+
+.section-2{
+    position: absolute;
+    width: 630px;
+    height: 270px;
+    margin-top: 250px;
+}
+
+.exp-heading{
+    position: absolute;
+    font-size: 12px;
+    margin-left: 85px;
+    margin-top: 40px;
+}
+
+.exp-para{
+    position: absolute;
+    font-size: 10px;
+    margin-left: 85px;
+    margin-top: 50px;
+}
+
+.exp-para2{
+    position: absolute;
+    font-size: 10px;
+    margin-left: 85px;
+    margin-top: 60px;
+}
+
+.exp-main-para{
+    position: absolute;
+    font-size: 10px;
+    margin-left: 260px;
+    margin-top: 40px;
+}
+
+.section-3{
+    position: absolute;
+    width: 630px;
+    height: 220px;
+    margin-top: 520px;
+}

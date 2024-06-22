@@ -1,0 +1,145 @@
+.back{
+    background-color:rgb(255, 255, 255);
+    border: 1px solid grey;
+    height: 450px;
+    width: 98%;
+}
+.back1{
+    background-color: grey;
+    height:450px;
+    width: 200px;
+    position: absolute;
+}
+.back2{
+    background-color: rgb(97, 97, 97);
+    height: 120px;
+    width: 140px;
+    margin-top:28px;
+    margin-left: 28px;
+    position: absolute;
+}
+.back3{
+    background-color: rgb(197, 195, 195);
+    height:20px;
+    width: 125px;
+    margin-top: 135px;
+    position: absolute;
+}
+.back4{
+    background-color: rgb(197, 195, 195);
+    height:20px;
+    width: 115px;
+    margin-top: 25px;
+    position: absolute;
+}
+.back5{
+    background-color: rgb(41, 50, 50);
+    height:100px;
+    margin-top: -164px;
+    margin-left: 172px;
+    width: 873px;
+    position: absolute;
+}
+.back6{
+    background-color: rgb(55, 73, 73);
+    height:15px;
+    margin-top: 45px;
+    margin-left: 25px;
+    width: 250px;
+    position: absolute;
+}
+.back7{
+    background-color: rgb(95, 120, 120);
+    height:15px;
+    margin-top: 25px;
+    width: 350px;
+    position: absolute;
+}
+.back8{
+    background-color: grey;
+    height:75px;
+    margin-top: 95px;
+    margin-left:15px ;
+    width: 170px;
+    position: absolute;
+}
+.back9{
+    background-color: grey;
+    height:75px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back10{
+    background-color: grey;
+    height:85px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back11{
+    background-color: grey;
+    height:75px;
+    margin-left: 205px;
+    margin-top: -95px;
+    width: 170px;
+    position: absolute;
+}
+.back12{
+    background-color: grey;
+    height:75px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back13{
+    background-color: grey;
+    height:85px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back14{
+    background-color: grey;
+    height:75px;
+    margin-left: 205px;
+    margin-top: -95px;
+    width: 170px;
+    position: absolute;
+}
+.back15{
+    background-color: grey;
+    height:75px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back16{
+    background-color: grey;
+    height:85px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back17{
+    background-color: grey;
+    height:75px;
+    margin-left: 205px;
+    margin-top: -95px;
+    width: 170px;
+    position: absolute;
+}
+.back18{
+    background-color: grey;
+    height:75px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}
+.back19{
+    background-color: grey;
+    height:85px;
+    margin-top: 95px;
+    width: 170px;
+    position: absolute;
+}

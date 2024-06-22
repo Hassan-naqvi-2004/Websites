@@ -1,0 +1,359 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    position: absolute;
+    width: 550px;
+    height: 700px;
+    border: 1px solid black;
+}
+
+.text{
+    position: absolute;
+    width: 350px;
+    height: 700px;
+}
+
+.header{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    background-color: aqua;
+    border-radius: 0 50px 50px 0;
+}
+
+.hero-img{
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 400px;
+    margin-top: 5px;
+}
+
+.hero-heading{
+    position: absolute;
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.hero-heading2{
+    color: aliceblue;
+    position: absolute;
+    margin-left: 50px;
+    text-transform: uppercase;
+    margin-top: 45px;
+}
+
+.main{
+    position: absolute;
+    width: 300px;
+    height: 600px;      
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.main-heading{
+    position: absolute;
+    color: aqua ;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.line{
+    width: 150px;
+    height: 1px;
+    background-color: aqua;
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 130px;
+}
+
+.section-1{
+    width: 300px;
+    height: 120px;
+    position: absolute;
+    margin-top: 45px;
+}
+
+.sec1-heading1{
+    text-transform: uppercase;
+}
+
+.sec1-para{
+    font-size: 9px;
+    margin-left: 10px;
+}
+
+.sec1-para2{
+    font-size: 10px;
+    font-weight: 800;
+}
+
+.sec1-icon{
+    font-size: 5px;
+    margin-left: 10px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.sec1-para3{
+    position: absolute;
+    font-size: 9px;
+    margin-left: 25px;
+}
+
+.sec1-icon2{
+    font-size: 5px;
+    margin-left: 10px;
+    position: absolute;
+}
+
+.sec1-para4{
+    position: absolute;
+    font-size: 9px;
+    margin-left: 25px;
+    margin-top: -5px;
+}
+
+.section-2{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    margin-top: 165px;
+}
+
+.section-3{
+    width: 300px;
+    height: 150px;
+    position: absolute;
+    margin-top: 305px;
+}
+
+.main-heading2{
+    position: absolute;
+    color: aqua ;
+    text-transform: uppercase;
+    margin-top: 470px;
+}
+
+.line2{
+    width: 195px;
+    height: 1px;
+    background-color: aqua;
+    position: absolute;
+    margin-top: 478px;
+    margin-left: 85px;
+}
+
+.footer{
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    margin-top: 495px;
+}
+
+.part-1{
+    width: 150px;
+    height: 70px;
+    position: absolute;
+}
+
+.part-2{
+    width: 140px;
+    height: 70px;
+    position: absolute;
+    margin-left: 150px;
+}
+
+.footer-heading1{
+    position: absolute;
+    text-transform: uppercase;
+}
+
+.footer-para2{
+    position: absolute;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.footer-para3{
+    margin-left: 3px;
+    margin-top: 25px;
+    position: absolute;
+    font-size: 8px;
+}   
+
+.side{
+    width: 200px;
+    height: 700px;
+    margin-left: 350px;
+    background-color: rgb(17, 25, 39);
+    color: aliceblue;
+}
+
+.profile{
+    width: 150px;
+    height: 90px;   
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+.profile-heading{
+    color: aliceblue;
+    text-transform: uppercase;
+    position: absolute;
+    font-weight: 100;
+}
+
+.profile-line{
+    width: 60px;
+    height: 1px;
+    background-color: aliceblue;
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 55px;
+}
+
+.profile-para{
+    position: absolute;
+    color: aliceblue;
+    font-size: 8px;
+    margin-top: 25px;
+}
+
+.skill-heading{
+    position: absolute;
+    width: 160px;
+    height: 20px;
+    background-color: aqua;
+    margin-top: 230px;
+    border-radius: 0 10px 10px 0;
+}
+
+.skill-span{
+    position: absolute;
+    margin-left: 20px;
+    color: aliceblue;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.professional{
+    width: 140px;
+    height: 100px;
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 20px;
+}
+
+.prof{
+    position: absolute;
+    text-transform: uppercase;
+    color: aliceblue;
+    font-size: 10px;
+    font-weight: 50;
+}
+
+.ul-1{
+    position: absolute;
+    font-size: 9px;
+    text-transform: uppercase;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.ul-in-1{
+    list-style: none;
+    font-size: 6px;
+    display: inline-flex;
+    margin-left: 45px;
+    position: absolute;
+    text-align: right;
+}
+
+.ul-in-2{
+    list-style: none;
+    font-size: 6px;
+    display: inline-flex;
+    margin-left: 42px;
+    position: absolute;
+    text-align: right;
+}
+
+.ul-in-3{
+    list-style: none;
+    font-size: 6px;
+    display: inline-flex;
+    margin-left: 47px;
+    position: absolute;
+    text-align: right;
+}
+
+.ul-in-4{
+    list-style: none;
+    font-size: 6px;
+    display: inline-flex;
+    margin-left: 12px;
+    position: absolute;
+    text-align: right;
+}
+
+.ul-in-5{
+    list-style: none;
+    font-size: 6px;
+    display: inline-flex;
+    position: absolute;
+    text-align: right;
+}
+
+.ul-li-1{
+    color: rgb(61, 167, 105);
+    margin-left: 5px;   
+}
+
+.ul-li-2{
+    margin-left: 5px;
+    color: darkgrey;
+}
+
+ul li{
+    margin-top: 3px;
+}
+
+.lang-heading{
+    position: absolute;
+    width: 160px;
+    height: 20px;
+    background-color: aqua;
+    margin-top: 400px;
+    border-radius: 0 10px 10px 0;
+}
+
+.lang-span{
+    position: absolute;
+    margin-left: 20px;
+    color: aliceblue;
+    line-height: 20px;
+    text-transform: uppercase;
+}
+
+.lang{
+    width: 140px;
+    height: 40px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 435px;
+}
+
+.ul-2{
+    font-size: 9px;
+    margin-left: 15px;
+}

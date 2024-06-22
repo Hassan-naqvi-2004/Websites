@@ -1,0 +1,136 @@
+.back{
+    background-color: black;
+    height: 1500px;
+    width: 800px;
+}
+.back1{
+    background-color: rgb(253, 251, 251);
+    height: 1450px;
+    width: 725px;
+    margin-left: 40px;
+    margin-top: 20px; 
+    position: absolute; 
+}
+.back2{
+    background-color: rgb(12, 12, 12);
+    height: 1433px;
+    width: 720px;
+    margin-left: -5px;
+    margin-top: 8px; 
+    position: absolute; 
+}
+.back3{
+    background-color: rgb(78, 76, 76);
+    height: 200px;
+    width: 705px;
+    margin-left: 3px;
+    margin-top: 15px; 
+    position: absolute; 
+}
+.img{
+    background-image: url(CAR.jpg);
+    width: 150px;
+    height: 165px;
+    margin-left:20px;
+    margin-top: 15px;
+    position: absolute;
+}
+.r{
+    margin-left: 180px;
+    position: absolute;
+    color: white;
+    font-size:x-small;
+    margin-top: -5px;
+    position: absolute;
+}
+.a{
+    margin-left: 180px;
+    position: absolute;
+    color: white;
+    font-size:xx-large;
+    margin-top: -20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+}
+.w{
+    margin-left: 180px;
+    position: absolute;
+    color: white;
+    font-size:small;
+    margin-top: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+}
+.link1{
+    margin-left:500px;
+    margin-top: 20px;
+    color: white;
+    position: absolute;
+}
+.back4{
+    background-color: rgb(8, 61, 8);
+    height: 60px;
+    width:705px;
+    margin-top: 140px;
+    position: absolute;
+}
+.lk{
+    color: white;
+    font-size:xx-small;
+    margin-left: 150px;
+    position: absolute;
+}
+.s{
+    margin-top:19px;
+    font-size:x-small;
+    color: white;
+    margin-left: 150px;
+    position: absolute;
+}
+.back5{
+      background-color:white;
+      height: 40px;
+      width: 5px;
+      margin-left: 290px;
+      margin-top: 8px;
+      border-radius: 30px;
+}
+.p{
+    color: white;
+    margin-left: 330px;
+    margin-top: -65px;
+}
+.back6{
+    background-color: white;
+    height: 1160px;
+    width: 705px;
+    margin-top: -11px;
+    position: absolute;
+}
+.john{
+    margin-left: 10px;
+    margin-top: 30px;
+    font-size: x-small;
+    position: absolute;
+}
+.hr{
+    margin-top: 60px;
+    font-size:x-small;
+    margin-left: 10px;
+    position: absolute
+}
+.d{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: xx-small;
+}
+.p1{
+    font-size: large;
+}
+.r1{
+    font-style: italic;
+     margin-top: 55px;
+}
+.r2{
+    margin-top: 20px;
+}

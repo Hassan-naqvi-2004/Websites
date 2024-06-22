@@ -1,0 +1,104 @@
+.body{
+background-color: rgb(135, 215, 252);
+    height:70px;
+    width:700px;
+}
+.header{
+    position: absolute;
+    color: white;
+    margin-left: 270px;
+}
+.leftsidebar{
+    position: absolute;
+    height: 150PX;
+    width: 200px;
+    background-color: brown;
+    margin-top: 70px;
+}
+.ls1{
+    color: white;
+    margin-top: 1px;
+    margin-left:60px;
+}
+.maincontent{
+    position: absolute;
+    height: 150PX;
+    width: 400px;
+    background-color:rgb(126, 207, 4);
+    margin-left: 200px;
+    margin-top:-117px;
+}
+.mc2{
+    color: white;
+    margin-left:50px;
+    margin-top: 1px;
+}
+.rightsidebar{
+    position: absolute;
+    height: 150PX;
+    width: 200px;
+    background-color:rgb(255, 218, 6);
+    margin-top: -80px;
+    margin-left: 300px;
+}
+.rs3{
+    color: white;
+    margin-left: 60px;
+    margin-top: 1px;
+}
+.back{
+    position: fixed;
+    background-color: rgb(65, 8, 117);
+    height: 100PX;
+    width: 700px;
+    margin-top: 30px;
+    margin-left: -500px;
+}
+.footer1{
+    position: absolute;
+     height: 70px;
+    width: 150px;
+    background-color: orangered;
+    margin-top: 15px;
+    margin-left:25px;
+}
+.f1{
+    color: white;
+    margin-left: 15px;
+}
+.footer2{
+    position: absolute;
+    height: 70px;
+    width:150px;
+    background-color: orangered;
+    margin-top:-80px ;
+    margin-left :160px;
+}
+.f2{
+    color: white;
+    margin-left: 25px;
+}
+.footer3{
+    position: absolute;
+    height: 70px;
+    width:150px;
+    background-color: orangered;
+    margin-top:-80px ;
+    margin-left :320px;
+}
+.f3{
+    color: white;
+    margin-left: 25px;
+}
+.footer4{
+    position: absolute;
+    height: 70px;
+    width:170px;
+    background-color: orangered;
+    margin-top:-80px ;
+    margin-left :480px;
+}
+.f4{
+    color: white;
+    margin-left: 30px;
+}

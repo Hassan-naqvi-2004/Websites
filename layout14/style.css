@@ -1,0 +1,158 @@
+.back{
+    background-color:white;
+    width: 97%;
+    height: 480px;
+    border:2px solid blue;
+    position: fixed;
+}
+.back1{
+    background-color: aqua;
+    width: 250px;
+    height: 480px;
+    position: absolute;
+}
+.back2{
+    background-color:white;
+    width: 175px;
+    height: 210px;
+    margin-top: 20px;
+    margin-left: 35px;
+    border-radius: 4px;
+    position: absolute;
+}
+img{
+    margin-top: 5px;
+    margin-left: 5px; 
+    position:relative;
+}
+.text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    margin-left: 30px;
+    margin-top: -1px;
+    position: absolute;
+}
+p{
+    font-size:x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    margin-left: 50px;
+    position: absolute;
+
+}
+.c{
+    color: white;
+    margin-top: 250px;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 6px;
+    font-weight: 100;
+    position: absolute;
+    border-bottom:2px solid rgb(255, 255, 255);
+    width: 200px;
+    position:absolute;
+}
+.p1{
+    font-size: 12px;
+    margin-top: 50px;
+}
+.p2{
+    font-size: 12px;
+    margin-top: 70px;
+}
+.p3{
+    font-size: 12px;
+    margin-top: 140px;
+}
+.p4{
+    font-size: 12px;
+    margin-top: 160px;
+}
+.j{
+    color: black;
+    margin-left: 790px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    margin-top: -20px;
+    color: grey;
+    position: absolute;
+}
+.p5{
+    margin-top: -5px;
+    margin-left: 190px;
+}
+.pro{
+    margin-top: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 6px;
+    margin-left: 295px;
+    border-bottom: 2px solid ;
+    width: 740px;
+    position: absolute;
+}
+.p6{
+    font-size: 15px;
+    position: absolute;
+    margin-left: -10px;
+    width: 800px;
+    position: absolute;
+}
+button{
+    border-radius: 10px;
+    margin-top: 130px;
+    width: 100px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    position: absolute;
+}
+button:hover{
+    background-color:aqua;
+    color: white;
+}
+.btn{
+    border-radius: 10px;
+    margin-top: 260px;
+    margin-left: 450px;
+    width: 180px;
+    background-color: white;
+    color: black;
+    height: 21px;
+    cursor: pointer;
+    position: absolute;
+}
+.btn:hover{
+    background-color: aqua;
+    color: white;
+}
+.exp{
+    margin-top: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:7px;
+    margin-left: 295px;
+    border-bottom: 2px solid;
+    width: 740px;
+    position: absolute;
+}
+.P7{
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: -5px;
+    position: absolute;
+}
+.p8{
+    font-size: 12px;
+    margin-top: 35px;
+    margin-left: -5px;
+    position: absolute;
+}
+.p9{
+    margin-top: 75px;
+    font-size: 10px;
+    position: absolute;
+}
+.p10{
+    margin-top: 100px;
+    font-size: 10px;
+    position: absolute;
+}

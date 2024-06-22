@@ -1,0 +1,566 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.back{
+    width: 740px;
+    height: 940px;
+    position: relative;
+    background-color: skyblue ;
+}
+.back1{
+    width: 250px;
+    height: 920px;
+    position: absolute;
+    background-color: black;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.resume{
+    position: absolute;
+    color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+.blue{
+    position: absolute;
+    width: 40px;
+    height: 7px;
+    background-color: skyblue;
+    margin-top: 45px;
+    margin-left: 5px;
+}
+.para1{
+    position: absolute;
+    color: white;
+    margin-top: 65px;
+    margin-left: 5px;
+}
+.award{
+    position: absolute;
+    color: skyblue;
+    margin-left: 5px;
+    margin-top: 280px;
+}
+.box1{
+    position: absolute;
+    background-color: skyblue;
+    width: 35px;
+    height: 35px;
+    margin-top: 270px;
+    margin-left: 75px;
+}
+.fa-trophy{
+    position: absolute;
+    color: white;
+    font-size: large;
+    margin-top: 7px;
+    margin-left: 7px;
+}
+.fa-minus{
+    position: absolute;
+    color: skyblue;
+    margin-left: 5px;
+    margin-top: 325px;
+    font-size: x-large;
+}
+.award1{
+    position: absolute;
+    color: white;
+    margin-top: 328px;
+    margin-left: 35px;
+}
+.para2{
+    position: absolute;
+    color: white;
+    margin-top: 350px;
+    margin-left: 35px;
+}
+.fa-plus{
+    position: absolute;
+    color: skyblue;
+    margin-top: 500px;
+    margin-left: 5px;
+    font-size: x-large;
+}
+.award2{
+    position: absolute;
+    color: white;
+    margin-top: 503px;
+    margin-left: 35px;
+}
+.para3{
+    position: absolute;
+    color: white;
+    margin-top: 525px;
+    margin-left: 35px;
+}
+.fa-icon{
+    position: absolute;
+    color: skyblue;
+    margin-top: 545px;
+    margin-left: 5px;
+    font-size: x-large;
+}
+.award3{
+    position: absolute;
+    color: white;
+    margin-top: 548px;
+    margin-left: 35px;
+}
+.para4{
+    position: absolute;
+    color: white;
+    margin-top: 570px;
+    margin-left: 35px;
+}
+.ref{
+    position: absolute;
+    color: skyblue;
+    margin-left: 5px;
+    margin-top: 610px;
+}
+.box2{
+    position: absolute;
+    background-color: skyblue;
+    width: 35px;
+    height: 35px;
+    margin-top: 600px;
+    margin-left: 75px;
+}
+.fa-iconic{
+    position: absolute;
+    color: skyblue;
+    margin-top: 650px;
+    margin-left: 5px;
+}
+.fa-unc{
+    position: absolute;
+    color: skyblue;
+    margin-top: 650px;
+    margin-left: 5px;
+}
+.john1{
+    position: absolute;
+    color: white;
+    margin-top: 658px;
+    margin-left: 35px;
+}
+.yet{
+    position: absolute;
+    color: skyblue;
+    margin-top: 685px;
+    margin-left: 35px;
+}
+.F{
+    position: absolute;
+    color: skyblue;
+    margin-top: 710px;
+    margin-left: 35px;
+}
+.farc{
+    position: absolute;
+    color: white;
+    margin-top: 710px;
+    margin-left: 50px;
+}
+.john2{
+    position: absolute;
+    color: white;
+    margin-top: 768px;
+    margin-left: 35px;
+}
+.fa-logos{
+    position: absolute;
+    color: skyblue;
+    margin-top: 760px;
+    margin-left: 5px;
+}
+.yet1{
+    position: absolute;
+    color: skyblue;
+    margin-top: 800px;
+    margin-left: 35px;
+}
+.F1{
+    position: absolute;
+    color: skyblue;
+    margin-top: 825px;
+    margin-left: 35px;
+}
+.farc1{
+    position: absolute;
+    color: white;
+    margin-top: 825px;
+    margin-left: 50px;
+}
+.fa-users-rectangle{
+    position: absolute;
+    color: white;
+    margin-top: 8px;
+    margin-left: 6px;
+    font-size: large;
+}
+.back2{
+    width: 465px;
+    height: 917px;
+    background-color: white;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 260px;
+    border: 2px solid black;
+}
+.box3{
+    width: 100px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: black;
+}
+.design{
+    position: absolute;
+    color: skyblue;
+    margin-top: 6px;
+    margin-left: 10px;
+    font-size: small;
+}
+.box4{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    background-color: skyblue;
+    margin-top: -30px;
+    margin-left: 100px;
+}
+.fa-network-wired{
+    position: absolute;
+    margin-top: 6px;
+    margin-left: 5px;
+    color: white;
+}
+.fa-sheik{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 10px;
+    color: skyblue;
+}
+.web{
+    position: absolute;
+    margin-top: 48px;
+    margin-left: 35px;
+}
+.web1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 35px;
+}
+.web2{
+    width: 336px;
+    height: 20px;
+    position: absolute;
+    background-color: skyblue;
+}
+.web3{
+    position: absolute;
+    margin-left: 300px;
+    color: white;
+}
+.lorm{
+    position: absolute;
+    margin-top: 100px;
+    font-size: small;
+    margin-left: 15px;
+}
+.fa-wire{
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 10px;
+}
+.logo{
+    position: absolute;
+    margin-top: 148px;
+    margin-left: 35px;
+}
+.logo1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 35px;
+}
+.logo2{
+    position: absolute;
+    width: 399px;
+    height: 20px;
+    background-color: skyblue;
+}
+.logo3{
+    position: absolute;
+    margin-left: 360px;
+    color: white;
+}
+.fa-plug{
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 10px;
+}
+.fly{
+    position: absolute;
+    margin-top: 208px;
+    margin-left: 35px;
+}
+.fly1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 35px;
+}
+.fly2{
+    position: absolute;
+    width: 294px;
+    height: 20px;
+    background-color: skyblue;
+}
+.fly3{
+    position: absolute;
+    margin-left: 260px;
+    color: white;
+}
+.fa-balc{
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 10px;
+}
+.baln{
+    position: absolute;
+    margin-top: 268px;
+    margin-left: 35px;
+}
+.baln1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 35px;
+}
+.baln2{
+    position: absolute;
+    width: 357px;
+    height: 20px;
+    background-color: skyblue;
+}
+.baln3{
+    position: absolute;
+    margin-left: 320px;
+    color: white;
+}
+.box5{
+    width: 120px;
+    height: 30px;
+    margin-top: 340px;
+    background-color: black;
+}
+.devel{
+    position: absolute;
+    color: skyblue;
+    margin-top: 6px;
+    margin-left: 15px;
+    font-size: small;
+}
+.box6{
+    width: 30px;
+    height: 30px;
+    margin-left: 120px;
+    margin-top: -30px;
+    background-color: skyblue;
+}
+.fa-code{
+    color: white;
+    position: absolute;
+    margin-top: 7px;
+    margin-left: 5px;
+}
+.fa-use{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 10px;
+    color: skyblue;
+}
+.j{
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.jq{
+    width: 420px;
+    height: 20px;
+    position: absolute;
+    background-color: rgb(223, 223, 223);
+    margin-top: 50px;
+    margin-left: 35px;
+}
+.jq1{
+    position: absolute;
+    width: 357px;
+    height: 20px;
+    background-color: skyblue;
+}
+.jq2{
+    position: absolute;
+    margin-left: 320px;
+    color: white;
+}
+.lorm1{
+    position: absolute;
+    margin-top: 30px;
+}
+.fa-moj{
+    position: absolute;
+    margin-left: -25px;
+    margin-top: 90px;
+    color: skyblue;
+}
+.htm{
+    position: absolute;
+    margin-left: 0px;
+    margin-top: 95px;
+}
+.htm1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 115px;
+    margin-left: 0px;
+}
+.htm2{
+    position: absolute;
+    width: 294px;
+    height: 20px;
+    background-color: skyblue;
+}
+.htm3{
+    position: absolute;
+    margin-left: 260px;
+    color: white;
+}
+.fa-mojan{
+    position: absolute;
+    margin-top: 140px;
+    color: skyblue;
+    margin-left: -25px;
+}
+.cs{
+    position: absolute;
+    margin-top: 145px;   
+}
+.cs1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 165px;
+    margin-left: 0px;
+}
+.cs2{
+    width: 336px;
+    height: 20px;
+    position: absolute;
+    background-color: skyblue;
+}
+.cs3{
+    position: absolute;
+    margin-left: 300px;
+    color: white;
+}
+.fa-moka{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: -25px;
+}
+.word{
+    position: absolute;
+    margin-top: 195px;
+}
+.word1{
+    width: 420px;
+    height: 20px;
+    background-color: rgb(223, 223, 223);
+    position: absolute;
+    margin-top: 217px;
+}
+.word2{
+    position: absolute;
+    width: 378px;
+    height: 20px;
+    background-color: skyblue;
+}
+.word3{
+    position: absolute;
+    margin-left: 360px;
+    color: white;
+}
+.edu{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    margin-top: 260px;
+    margin-left: -35px;
+}
+.edu1{
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 14px;
+    color: skyblue;
+}
+.box7{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: 260px;
+    background-color: skyblue;
+    margin-left: 65px;
+}
+.fa-school{
+    position: absolute;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.fa-cheesa{
+    position: absolute;
+    color: skyblue;
+    margin-top: 305px;
+    margin-left: -25px;
+}
+.maj{
+    position: absolute;
+    margin-top: 310px;
+}
+.lorm3{
+    position: absolute;
+    margin-top: 330px;
+    font-size: small;
+}
+.fa-chain{
+    position: absolute;
+    margin-top: 380px;
+    margin-left: -25px;
+}
+.maj2{
+    position: absolute;
+    margin-top: 385px;
+}
+.maj1{
+    position: absolute;
+    margin-top: 405px;
+    font-size: small;
+    margin-left: 5px;
+}

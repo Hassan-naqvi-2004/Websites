@@ -1,0 +1,128 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+background: radial-gradient(white, silver);
+position: relative;
+height: 650px;
+width: 650px;
+border: 1px solid black;
+}
+.a{
+background: radial-gradient( white, silver);
+border: 1px solid black;
+text-align: center;
+height: 80px;
+width: 80px;
+margin-top: 30px;
+margin-left: 30px;
+}
+.aa{
+margin-top: 18px;
+}
+.aaa{
+margin-top: -56px;
+margin-left: 130px;
+}
+.b{
+margin-left: 470px;
+margin-top: -45px;
+}
+.bb{
+margin-left: 470px;
+margin-top: 3px;
+}
+.bbb{
+margin-left: 470px;
+margin-top: 3px;
+}
+.bbbb{
+margin-left: 470px;
+margin-top: 3px;
+}
+.container1{
+background: radial-gradient(white,silver);
+height: 440px;
+border: 1px solid black;
+width: 180px;
+margin-top: 25px;
+margin-left: 30px;
+}
+.s{
+border: 1px solid black;
+height: 100px;
+text-align: center;
+width: 140px;
+background: radial-gradient(white,silver);
+margin-top: 50px;
+margin-left: 19px;
+
+}
+.ss{
+border: 1px solid black;
+margin-left: 19px;
+text-align: center;
+height: 47px;
+width: 140px;
+margin-top: 13px;
+background: radial-gradient(white,silver);
+}
+.sss{
+border: 1px solid black;
+margin-left: 19px;
+width: 140px;
+height: 47px;
+margin-top: 13px;
+text-align: center;
+background: radial-gradient(white,silver);
+}
+.n{
+margin-top: 43px;
+}
+.nn{
+margin-top: 14px;
+}
+.nnn{
+margin-top: 14px;
+}
+.main{
+height: 213px;
+width: 400px;
+text-align: center;
+border: 1px solid black;
+margin-left: 230px;
+margin-top: -441px;
+background: radial-gradient(#EFF179,#c0c0ad );
+}
+.l{
+margin-top: 95px;
+}
+.ll{
+margin-top: -95px;
+margin-left: -270px;
+}
+.t{
+border: 1px solid black;
+background-color: rgb(233, 241, 248);
+height: 213px;
+width: 400px;
+margin-left: 230px;
+margin-top: 12px;
+text-align: center;
+}
+.k{
+margin-top: 60px;
+}
+.y{
+height: 36px;
+width: 600px;
+border: 1px solid black;
+margin-left: 30px;
+margin-top: 15px;
+text-align: center;
+background: radial-gradient(rgb(89, 240, 89), rgba(255, 255, 255, 0.342));
+}
+.yy{
+margin-top: 7.5px;
+}

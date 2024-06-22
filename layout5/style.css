@@ -1,0 +1,200 @@
+.back{
+    position: fixed;
+    border:6px solid;
+    width: 750px;
+    height: 600px; 
+}
+.coverphoto{
+    border:6px solid;
+    width: 600px;
+    height: 150px; 
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 60px;
+    color:rgb(52, 8, 245);
+}
+.bg{
+   background-color: rgb(24, 250, 4);
+   position:absolute;
+   height: 40px;
+   width: 612px;
+   margin-left:60px;
+   margin-top: -6px;
+}
+.home{
+    width:100px;
+    height: 38px;
+    text-align: center
+}
+.h1{
+    background-color: yellow ;
+    margin-top:-15%;
+    margin-left: 7px;
+    width: 130px;
+}
+.menu1{
+    width:100px;
+    height: 34px;
+    text-align: center;
+    margin-top: -66px;
+    margin-left:100px; 
+    position:absolute;
+    color:rgb(8, 8, 8) ;
+    padding: 2px;
+}
+.m1{
+    background-color: yellow ;
+    margin-top:-3px;
+    margin-left: 33px;
+    width: 120px;
+}
+.menu2{
+    width:100px;
+    height: 38px;
+    text-align: center;
+    margin-top: -66px;
+    margin-left:104px;
+    position:absolute;
+    color:rgb(7, 7, 7);  
+}
+.m2{
+    background-color: yellow ;
+    margin-top: -1%;
+    margin-left:21px;
+    width: 110px;
+}
+.menu3{
+    width:125px;
+    height: 38px;
+    text-align: center;
+    margin-top: -66px;
+    margin-left:100px; 
+    position:absolute;
+    color:rgb(10, 10, 10); 
+}
+.m3{
+    background-color: yellow ;
+    margin-left: 15px;
+}
+.menu4{
+    width:84px;
+    height: 38px;
+    text-align: center;
+    margin-top: -65px;
+    margin-left:140px;
+      position:absolute;
+    color:rgb(8, 8, 8)
+}
+.m4{
+    background-color: yellow ;
+    margin-top: -2px;
+    margin-left: -25px;
+}
+.back2{
+    border:6px solid;
+    width: 600px;
+    height: 350px; 
+    text-align: center;
+    margin-top: 9px;
+    margin-left: 60px;
+    position:absolute;
+}
+.copyrightdailog{
+    width: 600px;
+    height: 350px; 
+    text-align: center;
+    margin-top: 20px;
+    margin-left:0px;
+    position: absolute;
+    color: black;
+    
+}
+.c3{
+     color: rgb(22, 22, 255);
+     margin-top: 310px;
+     margin-left: -280px;
+    
+}
+.contentheader{
+    border:4px solid;
+    width: 325px;
+    height: 250px; 
+    text-align: center;
+    margin-top: -330px;
+    margin-left: 20px;
+    color: brown;
+}
+.ch1{
+    color: rgb(19, 15, 243);
+    margin-left: -80px;
+    margin-top: -20px;
+}
+.listheader{
+    border:4px solid;
+    width: 200px;
+    height: 250px; 
+    text-align: center;
+    margin-top: -65px;
+    margin-left: 350px;
+    color: brown;
+}
+.lh1{
+    color:rgb(44, 44, 241);
+    margin-top:-25px
+}
+.image1{
+    border: 4px solid;
+    width:100px;
+    height: 37px;
+    text-align: center;
+    margin-top: -10px;
+    margin-left:50px; 
+    position:absolute;  
+    color: rgb(0, 110, 255);
+}
+.i1{
+    background-color:rgb(0, 174, 255) ;
+    margin-top: -22%;
+}
+.image2{
+    border: 4px solid;
+    width:100px;
+    height: 37px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left:-4px; 
+    position:absolute;  
+    color: rgb(0, 110, 255);
+}
+.i2{
+    background-color:rgb(0, 174, 255) ;
+    margin-top: -21%;
+}
+.image3{
+    border: 4px solid;
+    width:100px;
+    height: 37px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left:-4px; 
+    position:absolute;  
+    color: rgb(0, 110, 255);
+}
+.i3{
+    background-color:rgb(0, 174, 255) ;
+    margin-top: -21%;
+}
+.image4{
+    border: 4px solid;
+    width:100px;
+    height: 37px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left:-4px; 
+    position:absolute;  
+    color: rgb(11, 126, 241);
+}
+.i4{
+    background-color:rgb(0, 174, 255) ;
+    margin-top: -21%;
+}

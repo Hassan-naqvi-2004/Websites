@@ -1,0 +1,104 @@
+.back{
+    position: fixed;
+    width: 700px;
+    height: 480px;
+    background-color: rgb(212, 137, 162);
+}
+.header{
+    position: absolute;
+    width: 660px;
+    height: 50px;
+    background-color: aqua;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.hd1{
+    position: absolute;
+    margin-left: 275px;
+    margin-top: 7px;
+    color: white;
+}
+.aside{
+    position: absolute;
+    height: 320px;
+    width: 200px;
+    background-color: rgb(76, 161, 132);
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.as1{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 60px;
+    color: white;
+}
+.article{
+    position: absolute;
+    width: 440px;
+    height: 320px;
+    background-color: rgb(184, 89, 89);
+    margin-top: 80px;
+    margin-left: 240px;
+}
+.ar1{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 170px;
+    color: white;
+}
+.img1{
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    background-color: rgb(170, 157, 157);
+    margin-top: 175px;
+    margin-left: 10px;
+}
+.im1{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 22px;
+    color: white;
+}
+.img2{
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    background-color: rgb(170, 157, 157);
+    margin-top: 175px;
+    margin-left: 154px;
+}
+.im2{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 22px;
+    color: white;
+}
+.img3{
+    position: absolute;
+    width: 135px;
+    height: 135px;
+    background-color: rgb(170, 157, 157);
+    margin-top: 175px;
+    margin-left: 297px;
+}
+.im3{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 22px;
+    color: white;
+}
+.footer{
+    position: absolute;
+    width: 660px;
+    height: 50px;
+    background-color: aqua;
+    margin-top: 415px;
+    margin-left: 20px;
+}
+.ft1{
+    position: absolute;
+    margin-left: 275px;
+    margin-top: 7px;
+    color: white;
+}

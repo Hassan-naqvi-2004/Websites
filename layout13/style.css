@@ -1,0 +1,205 @@
+.back{
+    background-color: black;
+    height: 500px;
+    width: 900px;
+    position: fixed;
+}
+.back1{
+    background-color: rgb(255, 255, 255);
+    height: 440px;
+    width: 800px;
+    margin-top: 20px;
+    left: 50px;
+    position: absolute;
+}
+.back2{
+    background-color:rgb(88, 156, 182);
+    height: 430px;
+    width: 793px;
+    margin-top: 4px;
+    border: 1px solid rgb(24, 155, 203) ;
+    position: absolute;
+}
+.back3{
+    background-color:white;
+    height: 336px;
+    width: 650px;
+    margin-top: 42px;
+    left: 70px;
+    position: absolute;
+}
+.logo{
+    text-align:center;
+    left: -20px;
+    margin-top: 10px;
+    position: relative;
+}
+.text{
+    text-align:center;
+    color:white;
+    margin-top:-35px ;
+    margin-left:30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+.html{
+    color: white;
+    margin-top: -20px;
+    margin-left: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    font-size: large;
+}
+.image{
+    width:100% ;
+    height:20vh;
+    display:flex;
+    margin: 10px;
+    padding: 10px 10px;
+}
+.image img{
+    height:90px;
+    width:90px;
+    border-radius: 50%;
+}
+.j{
+    margin-top: 80px;
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 7px;
+    position: absolute;
+}
+.u{
+    color:rgb(135, 135, 172);
+}
+.line{
+    background-color:rgb(0, 0, 0);
+    height: 25px;
+    width: 4px;
+    border-radius: 5px;
+    background-color:rgb(11, 119, 162);
+    margin-left:20px;
+    margin-top: 200px;
+    left: 70px;
+    position: absolute;
+}
+.a{
+    width: 80px;
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+.p{
+    width:350px;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    word-spacing: 3px;
+}
+.p1{
+    width:350px;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    word-spacing: 3px;
+}
+.p2{
+    width:350px;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -10px;
+    word-spacing: 3px;
+}
+.line1{
+    background-color:rgb(0, 0, 0);
+    height: 25px;
+    width: 4px;
+    border-radius: 5px;
+    background-color:rgb(11, 119, 162);
+    margin-left:460px;
+    margin-top: 90px;
+    position: absolute;
+}
+.c{
+    width: 100px;
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+    position: absolute;
+}
+.m{
+    width: 100px;
+    margin-left:10px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:40px;
+    color:rgb(135, 135, 172);
+    font-size:10px;
+    position: absolute;
+}
+.p3{
+    width: 100px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 52px;
+    position: absolute;
+}
+.e{
+    width: 100px;
+    margin-left:10px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 50px;
+    color:rgb(135, 135, 172);
+    font-size:10px;
+    position: absolute;
+}
+.p4{
+    width: 100px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 67px;
+    margin-left: 52px;
+    position: absolute;
+}
+.w{
+    width: 100px;
+    margin-left:10px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 78px;
+    color:rgb(135, 135, 172);
+    font-size:10px;
+    position: absolute;
+}
+.p5{
+    width: 100px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 94px;
+    margin-left: 52px;
+    position: absolute;
+}
+.line2{
+    background-color:rgb(0, 0, 0);
+    height: 25px;
+    width: 4px;
+    border-radius: 5px;
+    background-color:rgb(11, 119, 162);
+    margin-left:510px;
+    margin-top: 300px;
+    position: absolute;
+}
+.s{
+    width: 100px;
+    margin-left:10px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -18px;
+    position: absolute;
+}
+.icon{
+    color: blue;
+}

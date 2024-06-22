@@ -1,0 +1,574 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: sans-serif;
+}
+nav{
+    background-image:linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.5)),url(hero-min.jpg);
+    background-attachment: fixed;
+    background-size:100% ;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+.container{
+    display: flex;
+    padding: 20px;
+    gap: 350px;
+    justify-content: center;
+}
+.main{
+    display: flex;
+    padding: 35px 0;
+    gap:25px;
+}
+.main a{
+    font-size:18px;
+    text-decoration: none;
+    color: white;
+}
+.main a:hover{
+    text-decoration: underline rgb(219, 102, 60);
+}
+.icon{
+    display: flex;
+    flex-direction: column;
+    gap:25px;
+    padding: 40px 30px;
+}
+.text h1{
+    color: white;
+    font-weight: 100;
+    font-size:50px;
+}
+.btn{
+    display: flex;
+    gap: 40px;
+}
+.btn button{
+    background-color:rgb(219, 102, 60);
+    border: none;
+    color: white;
+    padding: 15px;
+    font-size: 17px;
+    border-radius: 30px;
+    width:140px;
+    cursor: pointer;
+}
+.btn1 button{
+    border: 1px solid rgb(219, 102, 60);
+    color: rgb(219, 102, 60);
+    background-color: transparent;
+    width: 170px;
+}
+.btn1 button:hover{
+    background-color:rgb(219, 102, 60);
+    color: white;
+}
+/* SECTION-1 */
+.section-1{
+    padding: 80px 0;
+}
+.text1{
+    font-size: 35px;
+    color: rgb(70, 70, 70);
+    padding: 20px;
+    border-bottom: 2px solid rgb(219, 102, 60);
+}
+.text2{
+    width: 750px;
+    font-size: 20px;
+    color: rgb(70, 70, 70);
+}
+.text3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:40px;
+}
+.text4{
+    display:flex;
+    justify-content: center;
+    padding: 80px;
+    gap: 20px;
+}
+.icon1{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    color:rgb(70, 70, 70);
+}
+.icon1 i{
+    font-size: 50px;
+}
+.icon1 h1{
+    font-weight: 100;
+    font-size: 22px;
+}
+.icon1 p{
+    width:250px;
+    font-size: 17px;
+}
+/* SECTION-2 */
+.section-2{
+
+}
+.image{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+   
+}
+.image img{
+    width: 100%;
+}
+/* SECTION-3 */
+.section-3{
+    padding: 50px 0;
+    background-color: rgb(225, 225, 225);
+}
+.text6{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+.text5{
+    text-align: center;
+    
+}
+.text5 h1{
+    font-size: 35px;
+    font-weight: 100;
+    color:rgb(70, 70, 70);
+}
+.text7{
+    display: flex;
+    justify-content: end;
+    gap: 80px;
+}
+.text9{
+    display:flex;
+    
+    gap: 20px;
+}
+.text9 h1{
+    border: 2px solid;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    color: rgb(219, 102, 60);
+}
+.text9 p{
+    padding: 10px 0;
+    font-size: 20px;
+}
+.text10{
+    display: flex;
+    flex-direction: column;
+    padding:40px 0;
+    gap: 20px;
+}
+.text11{
+    display: flex;
+    gap: 20px;
+    cursor: pointer;
+}
+/* SECTION-4 */
+.section-4{
+    padding: 70px 0;
+}
+.text13{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.text12 h1{
+    font-weight: 100;
+    font-size: 35px;
+    text-align: center;
+    color:rgb(70, 70, 70);
+}
+.image1{
+    display: flex;
+    flex-direction: column;
+    color:rgb(70, 70, 70);
+    gap: 10px;
+}
+.image1 h1{
+    font-weight: 100;
+}
+.icon2{
+    display: flex;
+    gap: 15px;
+    font-size: 20px;
+}
+.image2{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+.image2 img{
+    width: 230px;
+}
+/* SECTION-5 */
+.section-5{
+    background-image:linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.5)),url(back-customers-min.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 480px;
+    color: white;
+}
+.image4{
+    display:flex ;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+.image6{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.image3 h1{
+    padding-top:70px;
+    font-weight: 100;
+    font-size: 35px;
+    text-align: center;  
+}
+.icon3{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.icon3 p{
+    width: 290px;
+    font-size: 20px;
+}
+.icon3 i{
+    font-size: 25px;
+}
+.image5{
+    display: flex;
+    gap: 10px;
+    padding:25px 0;
+}
+.image5 h1{
+    font-weight:100;
+    font-size: 15px;
+    padding: 10px 0;
+}
+.image5 img{
+    border-radius: 20px;
+}
+/* SECTION-6 */
+.section-6{
+    background-color:rgb(229, 229, 229);
+    height: 600px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.main1{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.text14 h1{
+    font-weight: 100;
+    font-size: 30px;
+    color:rgb(44, 44, 44);
+    padding: 60px 0;
+    text-align: center;
+}
+.text15{
+    border: 1px solid;
+    width: 300px;
+    background-color: white;
+    border: none;
+}
+.text16{
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+}
+.text16 h1{
+    font-weight: 100;
+    color:rgb(70, 70, 70);
+    
+}
+.text16 h2{
+    font-weight: 100;
+    font-size: 20px;
+    color:rgb(70, 70, 70);
+}
+.text17{
+    display: flex;
+   
+}
+.text17 h1{
+    font-size: 50px;
+    font-weight: 100;
+    color:rgb(219, 102, 60);
+}
+.text17 p{
+    padding: 30px 15px;
+    color:rgb(219, 102, 60);
+}
+.text18{
+    display: flex;
+    color:rgb(70, 70, 70);
+    gap: 10px;
+    
+}
+.text18 p{
+    font-size: 19px;
+}
+.text19{
+    border-top:1px solid rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-bottom:1px solid  rgb(223, 223, 223);
+    gap: 10px;
+}
+.btn2 {
+    text-align: center;
+    padding: 20px 0;
+    
+}
+.btn2 button{
+    background-color:rgb(219, 102, 60);
+    border: none;
+    padding: 12px;
+    font-size: 17px;
+    color: white;
+    width: 150px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn2 button:hover{
+    background-color:rgb(215, 82, 34);
+    color: white;
+}
+.btn3 {
+    text-align: center;
+    padding: 20px 0;
+    
+}
+.btn3 button{
+    background-color:transparent;
+    border:1px solid rgb(215, 82, 34);
+    padding: 12px;
+    font-size: 17px;
+    color:rgb(215, 82, 34);
+    width: 150px;
+    border-radius: 30px;
+    cursor: pointer;
+}
+.btn3 button:hover{
+    background-color:rgb(215, 82, 34);
+    color: white;
+}
+/* SECTION-7 */
+.section-7{
+   
+}
+.main3{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
+.icon5{
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    background-color: rgb(207, 206, 206);
+    height: 500px;
+    width: 100%;
+    align-items: center;
+    padding: 20px 0;
+}
+.icon4{
+    display: flex;
+    flex-direction: column;
+    width: 380px;
+    background-color: white;
+    height:150px;
+}
+.icon4 h1{
+    color:rgb(74, 74, 74);
+    font-weight: 100;
+    font-size: 18px;
+    padding: 15px;
+}
+.icon4 p{
+    font-size: 15px;
+    padding:0 15px;
+}
+.icon6{
+    display: flex;
+    padding: 20px;
+    gap: 110px;
+    cursor: pointer;
+}
+.icon6 p{
+    font-size: 13px;
+    color:rgb(84, 84, 84);
+    padding: 10px 0;
+    text-decoration: underline rgb(219, 102, 60);
+}
+.icon6 button{
+    width: 60px;
+    padding: 5px;
+    color: rgb(34, 117, 149);
+    border: 1px solid rgb(157, 157, 157);
+    cursor: pointer;
+}
+.icon7{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    text-align: center;
+}
+.icon7 i{
+    font-size: 40px;
+}
+.icon7 h1{
+    font-weight: 400;
+    font-size: 25px;
+}
+.icon15{
+    background-image: linear-gradient(rgba(233, 227, 227, 0.75),rgba(233, 226, 226, 0.5));
+    height: 500px;  
+    width:50%;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -540px;
+}
+.icon8{
+    padding: 20px;
+    width: 450px;
+    text-align: center;
+}
+.icon8 h1{
+    font-weight: 100;
+    font-size:30px;
+}
+.icon16{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+}
+.icon9{
+    display: flex;
+    gap: 100px;
+}
+.icon9 p{
+    font-size: 20px;
+    padding: 10px 0;
+}
+.icon9 input{
+    font-size: 17px;
+    padding: 7px;
+    width: 260px;
+}
+.icon10{
+    display: flex;
+    gap: 30px;
+}
+.icon10 label{
+    font-size: 20px;
+    padding: 10px 0;
+    width: 120px;
+}
+.icon10 input{
+    font-size: 17px;
+    height: 30px;
+    width: 265px;
+    padding: 5px;
+}
+.icon11{
+    display: flex;
+    gap: 45px;
+}
+.icon11 p{
+    font-size: 20px;
+}
+.icon12{
+    display: flex;
+    gap: 10px;
+    font-size: 20px;
+}
+.icon13{
+    display: flex;
+    gap: 30px;
+}
+.icon13 label{
+    font-size: 20px;
+    padding: 10px 0;
+}
+.icon14 textarea{
+    font-size: 20px;
+    width: 265px;
+    padding: 5px;
+}
+.btn4{
+    text-align: center;
+}
+.btn4 button{
+    background-color:rgb(215, 82, 34) ;
+    border: none;
+    color: white;
+    padding: 10px;
+    width: 120px;
+    border-radius: 30px;
+    font-size: 15px;
+}
+/* FOOTER */
+.footer{
+    background-color: rgb(54, 53, 53);
+    height:300px;
+}
+.footer-text{
+    display: flex;
+    justify-content: center;
+    gap: 550px;
+    padding: 120px 0;
+}
+.menu{
+    display: flex;
+    gap: 25px;
+    cursor: pointer;
+}
+.menu a{
+    color: gray;
+    font-size: 15px
+}
+.menu a:hover{
+    color: white;
+}
+.icon17{
+    display: flex;
+    gap:20px;
+}
+.icon17 i{
+    font-size: 20px;
+}
+.text20 h1{
+    font-weight: 100;
+    font-size: 17px;
+    color: gray;
+    text-align: center;
+}

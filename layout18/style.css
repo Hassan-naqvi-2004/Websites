@@ -1,0 +1,133 @@
+*{
+    margin: 0%;
+    padding: 0%;
+ }   
+.header{
+    background-color: rgb(2, 2, 39);
+    position: relative;
+    height: 200px;
+    width: 500px;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.website{
+    color: white;
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.para{
+    color: white;
+    margin-top: -10px;
+    margin-left: 70px;
+}
+.box{
+    background-color: gray;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+margin-top: -88px;
+margin-left: 270px;
+text-align: center;
+}
+.state{
+    color: white;
+margin-top: 36px;
+}
+.button{
+    background-color: rgb(6, 81, 110);
+    margin-left: 70px;
+    margin-top: 7px;
+}
+.nav{
+    margin-top: 10px;
+    margin-left: 140px;
+}
+.case1{
+    border-radius: 2px;
+    border: 1px solid mediumblue;
+    height: 60px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 85px;
+}
+.case2{
+    height: 60px;
+    width: 60px;
+    margin-top: -62px;
+    margin-left: 175px;
+    border: 1px mediumblue solid;
+    border-radius: 2px;
+}
+.case3{
+    height: 60px;
+    width: 60px;
+    border-radius: 2px;
+    border: 1px solid mediumblue;
+    margin-top: -62px;
+    margin-left: 265px;
+}
+.case4{
+    height: 60px;
+    width: 60px;
+    border-radius: 2px;
+    border: 1px solid mediumblue;
+    margin-left: 355px;
+    margin-top: -62px;
+
+}
+.Information{
+margin-top: 64px;
+}
+.information2{
+margin-top: 64px;
+}
+.information3{
+    margin-top: 64px;
+}
+.information4{
+    margin-top: 64px;
+}
+.lorem{
+    width: 500px;
+    height: 110px;
+    background-color: grey;
+    margin-top: 100px;
+    text-align: center;
+    position: absolute;
+}
+.instant{
+    margin-top: 30px;
+}
+.web{
+    height: 50px;
+    width: 340px;
+    background-color: rgb(63, 63, 173);
+    margin-top: 220px;
+    position: absolute;
+    margin-left: 85px;
+}
+.hack{
+margin-top: 10px;
+margin-left: 20px;
+color: azure;
+}
+.hacker{
+    border: 1px white solid;
+    border-radius: 2px;
+    background-color: rgb(63, 63, 173);
+    margin-left: 230px;
+    margin-top: -15px;
+    position: absolute;
+}
+.sign{
+margin-top: 300px;
+}
+.signature{
+    margin-top: 300px;
+    background-color: rgb(2, 2, 39);
+    height: 30px;
+    width: 500px;
+    text-align: center;
+    color: azure;
+}

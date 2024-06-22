@@ -1,0 +1,60 @@
+.Main{
+    border: 1px solid;
+    padding: 50px;
+    background-color: darkgrey;
+    height: 320px;
+    width:510px;
+    text-align: center;
+}
+.main{
+    border: 1px solid;
+    padding: 1px;
+    background-color: yellow;
+    height: 415px;
+    width:502px;
+    text-align: center;
+    margin-top: -50px;
+}
+.header{
+   border: 1px solid;
+   text-align: center;
+   height: 70PX;
+   width: 500px;
+   background-color:green;
+   margin-top: 1%;
+}
+.menu{
+    border: 1px solid;
+    text-align: center;
+    height: 50px;
+    width: 500px;
+    background-color:rgb(76, 185, 212);
+    margin-top: 5px;
+}
+.content{
+    border: 1px solid;
+    text-align: center;
+    height: 200px;
+    width: 405px;
+    background-color:rgb(253, 15, 253);
+    position: relative;
+   left: 95px;
+   margin-top: 5px;
+}
+.Menu{
+    border: 1px solid;
+    text-align: center;
+    height: 200px;
+    width:87px;
+    background-color:rgb(10, 10, 255);
+    position: absolute;
+    margin-top: 5px;
+}
+.footer{
+    border:1px solid;
+    text-align: center;
+    height:58px;
+    width: 500px;
+    background-color:orangered;
+    margin-top: 5px;
+}

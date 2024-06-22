@@ -1,0 +1,482 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width: 500px;
+    height: 710px;
+    border: 1px solid black;
+}
+
+.header{
+    width: 500px;
+    height: 240px;
+}
+
+.main-heading{
+    color: rgb(63, 63, 63);
+    text-transform: capitalize;
+    margin-top: 10px;
+}
+
+.under-heading{
+    color: rgb(0, 255, 255);
+    font-size: 8px;
+    margin-left: 5px;
+}
+
+.top-para{
+    font-size: 7px;
+    margin-top: 5px;
+}
+
+.black{
+    width: 500px;
+    height: 45px;
+    border-radius: 7px;
+    background-color: black;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.icon1{
+    position: absolute;
+    font-size: 11px;
+    margin: 10px;
+}
+
+.span{
+    position: absolute;
+    font-size: 7px;
+    margin-left: 25px;
+    margin-top: 9px;
+}
+
+.icon2{
+    position: absolute;
+    margin-left: 10px;
+    font-size: 10px;
+    margin-top: 25px;
+}
+
+.span2{
+    position: absolute;
+    font-size: 7px;
+    margin-left: 25px;
+    margin-top: 24px;
+}
+
+.icon3{
+    position: absolute;
+    font-size: 11px;
+    margin-top: 10px;
+    margin-left: 230px;
+}
+
+.span3{
+    position: absolute;
+    font-size: 7px;
+    margin-left: 245px;
+    margin-top: 9px;
+}
+
+.icon4{
+    position: absolute;
+    font-size: 11px;
+    margin-top: 25px;
+    margin-left: 230px;
+}
+
+.span4{
+    position: absolute;
+    font-size: 7px;
+    margin-left: 245px;
+    margin-top: 9px;
+    margin-top: 28px;
+}
+
+.expereince{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 10px;
+    color: aliceblue;
+}
+
+.icon5{
+    position: absolute;
+    font-size: 15px;
+    margin: 2px;
+}
+
+.exp-para{
+    color: black;
+    font-size: 15px;
+    font-weight: 400;
+    margin-left: 25px;
+    width: 500px;
+}
+
+.exp-main{
+    position: absolute;
+    width: 400px;
+    width: 35px;
+    margin-top: 40px;
+}
+
+.top-1{
+    width: 180px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-2{
+    width: 120px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-left: 185px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-3{
+    width: 90px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-left: 310px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-4{
+    width: 100px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-top: 20px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-5{
+    width: 135px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 105px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-6{
+    width: 60px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 245px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.top-7{
+    width: 90px;
+    height: 15px;
+    background-color: rgb(138, 138, 138);
+    color: aliceblue;
+    position: absolute;
+    font-size: 7px;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 310px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.line{
+    width: 500px;
+    height: 2px;
+    background-color: rgb(69, 252, 252);
+    position: absolute;
+}
+
+.line-2{
+    width: 325px;
+    height: 2px;
+    background-color: rgb(1, 88, 88);
+    position: absolute;
+}
+
+.line-3{
+    width: 165px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+    position: absolute;
+}
+
+.main{
+    width: 500px;
+    height: 230px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.verticl{
+    width: 1px;
+    height: 10px;
+    background-color: gray;
+    margin-left: 9px;
+    margin-top: 30px;
+}
+
+.dot{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 7px;
+    margin-top: 3px;
+}
+
+.we-heading{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 38px;
+    text-transform: capitalize;
+}
+
+.we-low-heading{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.verticl2{
+    position: absolute;
+    width: 1px;
+    height: 100px;
+    background-color: gray;
+    margin-left: 9px;
+    margin-top: 3px;
+}
+
+.we-clr-para{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 10px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.we-icon{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 10px;
+}
+
+.we-span{
+    position: absolute;
+    font-size: 7px;
+    color: black;
+    margin-left: 5px;
+    width: 400px;
+}
+
+.we-icon2{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 500px;
+}
+
+.we-icon3{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 30px;
+    width: 500px;
+}
+
+.we-icon4{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 500px;
+}
+
+.dot-2{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 7px;
+    margin-top: 115px;
+}
+
+.we-heading2{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 20px;
+    text-transform: capitalize;
+    margin-top: 110px;
+}
+
+.we-low-heading2{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 20px;
+}
+
+.we-clr-para2{
+    color: aqua;
+    font-size: 8px;
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.we-icon-1{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 20px;
+}
+
+.we-icon-2{
+    position: absolute;
+    font-size: 3px;
+    color: aqua;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 500px;
+}
+
+.section{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    border: 1px solid aliceblue;
+}
+
+.sec-icon{
+    position: absolute;
+    margin: 3px;
+    font-size: 12px ;
+}
+
+.dot-3{
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background-color: aqua;
+    margin-left: 7px;
+    margin-top: 40px;
+}
+
+.ed-heading{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 20px;
+    text-transform: capitalize;
+    margin-top: 35px;
+}
+
+.ed-heading3{
+    font-size: 12px;
+    position: absolute;
+    margin-left: 250px;
+    text-transform: capitalize;
+    margin-top: -12px;
+}
+
+.ed-low-heading3{
+    font-size: 10px;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.ed-clr-para{
+    position: absolute;
+    color: aqua;
+    font-size: 8px;
+    margin-left: 20px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.ed-clr-para2{
+    position: absolute;
+    color: aqua;
+    font-size: 8px;
+    margin-left: 250px;
+    width: 100px;
+    margin-top: 15px;
+}
+
+.footer{
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    margin-top: 100px;
+}
+
+.footer-icon{
+    font-size: 12px;
+    margin-left: 5px;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.footer-para{
+    position: absolute;
+    font-size: 8px;
+    margin-top: 35px;
+}
+
+.footer-para2{
+    position: absolute;
+    font-size: 8px;
+    margin-top: 60px;
+}
+
+.footer-para3{
+    position: absolute;
+    font-size: 8px;
+    margin-top: 35px;
+    margin-left: 250px;
+}

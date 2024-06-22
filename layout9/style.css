@@ -1,0 +1,150 @@
+.back{
+    background-color: black;
+    height: 560px;
+    width: 1030px;
+    position: fixed;
+}
+.back1{
+    background-color: white;
+    height: 480px;
+    width:900px;
+    margin-left: 60px;
+    margin-top: 20px;
+    position: fixed;
+}
+.D{
+    background-color: rgb(30, 12, 190);
+    width: 42px;
+    height: 23px;
+    font-size:small;
+    margin-left: 20px;
+    margin-top: -10px;
+    color: white;
+}
+.back2{
+    background-color: rgb(43, 42, 42);
+    width: 570px;
+    height: 420px;
+    margin-left: 320px;
+    margin-top: 20px;
+    position: absolute;
+}
+.img{
+    margin-top: 50px;
+    width: 100px;  
+    height: 100px;
+    margin-left: 25px;
+    position:absolute;
+
+}
+.j{
+    margin-top: 150px;
+    margin-left: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    position:absolute;
+}
+.c{
+    font-size: small;
+    margin-top: 250px;
+    margin-left: 25px;
+    position:absolute;
+}
+.n{
+    margin-left: 100px;
+    margin-top: 270px;
+    font-size: small;
+   
+}
+.ds{
+    text-align: left;
+    text-decoration: underline;
+    margin-top: -435px;
+    margin-left: 90px;
+    font-size: small;
+    position: absolute;
+}
+.e{
+    color: greenyellow;
+    margin-left: 340px;
+    margin-top: -395px;
+    font-size:small;
+    text-decoration: underline;
+    position:absolute;
+}
+.cn{
+    color: white;
+    margin-top:-10px;
+    position: fixed;
+}
+.f{
+    margin-left: 195px;
+    margin-top: -10px;
+    color: white;
+    position: fixed;
+}
+.p{
+    color: rgb(148, 148, 148);
+    margin-top: 28px;
+    margin-left: 195px;
+    position: fixed;
+}
+.j1{
+    margin-left: 19px;
+    margin-top: 25px;
+    color: rgb(148, 148, 148);
+    position: fixed;
+}
+.cn1{
+    color: white;
+    margin-top:120px;
+    position: fixed;
+}
+.f1{
+    margin-left: 195px;
+    margin-top: 120px;
+    color: white;
+    position: fixed;
+}
+.p1{
+    color: rgb(148, 148, 148);
+    margin-top: 160px;
+    margin-left: 195px;
+    position: fixed;
+}
+.j2{
+    margin-left: 19px;
+    margin-top: 155px;
+    color: rgb(148, 148, 148);
+    position: fixed;
+}
+.cn2{
+    color: white;
+    margin-top:250px;
+    position: fixed;
+}
+.f2{
+    margin-left: 195px;
+    margin-top: 250px;
+    color: white;
+    position: fixed;
+}
+.p2{
+    color: rgb(148, 148, 148);
+    margin-top: 290px;
+    margin-left: 195px;
+    position: fixed;
+}
+.j3{
+    margin-left: 19px;
+    margin-top: 285px;
+    color: rgb(148, 148, 148);
+    position: fixed;
+}
+.fa-xmark{
+    margin-left: 830px;
+    margin-top: 10px;
+    color: rgb(0, 0, 0);
+    font-size: large;
+    position: absolute;
+}
